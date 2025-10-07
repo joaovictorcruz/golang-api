@@ -1,4 +1,4 @@
-module github.com/joaovictorcruz/golang-mvc
+module github.com/joaovictorcruz/golang-api
 
 go 1.24.2
 
